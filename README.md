@@ -40,7 +40,7 @@ A Flutter application for managing tasks with real-time collaboration and push n
 
 Watch a demo of the application in action:
 
-[![Task Management App Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch Video](https://github.com/hokshmaxx/testapp/blob/master/demo/demo.mp4)
 
 ## Architecture
 
